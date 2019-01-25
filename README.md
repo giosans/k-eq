@@ -1,1 +1,2 @@
-Repository for k-eq competition
+Repository for k-eq competition.
+Using python3.
